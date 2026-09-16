@@ -1,7 +1,7 @@
 import type {} from '@deepseek-ai/dsh-client-locale/client'
 import type { ClientContext } from '@deepseek-ai/dsh-client-runtime/client'
 import type {} from '@deepseek-ai/dsh-client-ui-settings/client'
-import remoteContribution from '@hrhgit/dsh-skill-manager/remote'
+import remoteContribution from '@ruihuahe/dsh-skill-manager/remote'
 import type { SaveSkillInput, SkillImportCandidate, SkillImportReceipt, SkillSnapshot, SkillView } from '../types.js'
 import { en, zh, type LocaleKey } from './locales.js'
 import { SkillManagerSection, type SkillManagerApi } from './SkillManagerSection.js'
